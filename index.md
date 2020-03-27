@@ -1,2 +1,1 @@
-## Introduction
-[**Sherpa+OpenLoops**](Sherpa+OpenLoops.md)
+[**Sherpa+OpenLoops**](Sherpa+OpenLoops)
