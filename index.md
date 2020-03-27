@@ -1,2 +1,2 @@
 ## Welcome to GitHub Pages
-[**Sherpa+OpenLoops**](Interference/Sherpa+OpenLoops.md)
+[**Sherpa+OpenLoops**](Sherpa+OpenLoops.md)
